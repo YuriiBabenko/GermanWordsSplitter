@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GermanWordsSplitter", "GermanWordsSplitter.csproj", "{ECDFECA5-182C-4ACF-B3FF-BDD57CC3F728}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECDFECA5-182C-4ACF-B3FF-BDD57CC3F728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECDFECA5-182C-4ACF-B3FF-BDD57CC3F728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECDFECA5-182C-4ACF-B3FF-BDD57CC3F728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECDFECA5-182C-4ACF-B3FF-BDD57CC3F728}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FFE9449-6D18-4951-81AA-43086DCFDEC5}
+	EndGlobalSection
+EndGlobal
