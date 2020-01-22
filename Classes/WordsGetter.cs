@@ -63,7 +63,7 @@
 		#region Methods: public
 
 		public Task<IEnumerable<string>> GetWordsTask() {
-			return Task.Run(GetWords);
+			return Task.Run(() => GetWords());
 		}
 
 		#endregion

@@ -54,7 +54,7 @@
 		#region Methods: public
 
 		public virtual Task<IEnumerable<string>> GetDictionaryTask() {
-			return Task.Run(GetDictionary);
+			return Task.Run(() => GetDictionary());
 		}
 
 		#endregion
